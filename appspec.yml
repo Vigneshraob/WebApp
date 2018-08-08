@@ -3,7 +3,7 @@ os: linux
 files:
    #source: /
    #destination: /var/www/html/
-  - source: /target/CustomerOnBoard-0.0.1.war	
+  - source: /target/web-0.0.1-SNAPSHOT.war	
     destination: /usr/share/tomcat/webapps
 hooks:
   BeforeInstall:
