@@ -1,0 +1,16 @@
+version: 0.0
+os: linux
+files:
+   #source: /
+   #destination: /var/www/html/
+  - source: /target/CustomerOnBoard-0.0.1.war	
+    destination: /usr/share/tomcat/webapps
+hooks:
+  BeforeInstall:
+    - location: setup.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: start.sh
+      timeout: 300
+runas: root
