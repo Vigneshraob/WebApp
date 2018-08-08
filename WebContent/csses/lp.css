@@ -1,0 +1,55 @@
+#wel{
+	float:left;
+	margin-top:-550px;
+	margin-left:200px;
+	font-family:cursive;
+	font-style: oblique;
+	}
+#lt{
+	cell-spacing:20px;
+	cell-padding:30px;
+	box-shadow: 10px 10px  #ced0ff;
+	}
+#table2
+	{
+	width:450px;
+	height:300px;
+	overflow:scroll;
+	align:center;
+	float:left;	
+	margin-top:-500px;
+	margin-left:450px;
+	}
+
+
+#lt tr:nth-child(odd){
+	background-color: #0080ff;
+	color:white;
+}
+#lt tr:nth-child(even){
+	background-color: #f0faff;
+	color:black;
+}
+th{
+	background-color:black;
+	color:white;
+	
+}
+#lo{
+	float:right;
+	margin-top:-560px;
+	margin-right:250px;
+	font-size:20px;
+}
+#contribute{
+	float:right;
+	margin-top:-150px;
+	margin-right:500px;
+	color:red;
+	font-family:cursive;
+	font-size:medium;
+}
+#keys{
+	margin-left:630px;
+	margin-top:-180px;}
+}

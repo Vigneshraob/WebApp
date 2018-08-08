@@ -1,0 +1,51 @@
+#lt1{
+	border:3px dashed black;
+	background-color:#6d92d3;
+	margin:auto;
+	padding:5px 5px 5px 5px;
+	border-radius: 10px;
+	margin-top:-400px;
+	font-size:20px;
+	font-style: italic;
+}
+#lb{
+	padding:5px 5px 5px 5px;
+	font-size:15px;
+	height:30px; 
+	width:80px;
+}
+#err{
+	color:red;
+	font-style:bold;
+	font-family:impact;
+	margin-left:400px;
+	margin-top:300px;
+	text-align:center;
+}
+	
+div {
+	border-radius: 5px;
+}
+
+#nu{
+	font-size:15px;
+	text-decoration: none;
+}
+#RM{
+	font-size: 15px;
+}
+
+#input_img {
+  position:relative;
+    bottom:-4px;
+    right:28px;
+    width:24px;
+    height:24px;
+}
+#input_img1 {
+  position:relative;
+    bottom:-4px;
+    right:28px;
+    width:24px;
+    height:24px;
+}

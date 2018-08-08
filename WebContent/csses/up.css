@@ -1,0 +1,158 @@
+.button{
+	border-radius:5px;
+	background-color:#ed5752;
+	height:60px;
+	width:200px;
+	box-shadow: 4px 4px #a1be95;
+	font-size:large;
+	font-family:Verdana;
+	margin-left:40px;
+}
+.btn1{
+	float:left;
+	margin-left:300px;
+	margin-top:-480px;
+}
+.btn2{
+	float:left;
+	margin-left:550px;
+	margin-top:-480px;
+}
+.btn3{
+	float:left;
+	margin-left:810px;
+	margin-top:-480px;
+}
+
+#ull{
+	float:left;
+	list-style: none;
+	display: list-item;
+	margin-top:-480px;
+	margin-left:230px;
+	
+}
+#divoftables{
+	float:left;
+	margin-left:500px;
+	margin-top:-400px;
+}
+#addthing{
+	text-align:center;
+	padding:10px 10px 10px 10px;
+	font-size: large;
+}
+#error{
+	color:red;
+	font-size:20px;
+	float :left;
+	margin-left:400px;
+	margin-top:300px;
+}
+#wel{
+	float:left;
+	margin-top:-540px;
+	margin-left:200px;
+	font-family:cursive;
+	font-style: oblique;
+}
+#lo{
+	margin-top:-540px;
+	margin-left:950px;
+	font-size:20px;
+}
+#st1{
+	margin-top:50px;
+	margin-left:40px;
+}
+#st2{
+	width:500px;
+	float:left;
+	margin-left:-200px;
+	margin-top:-21px;
+	font-size:25px;;
+	color:violet;
+	
+}
+#upsp,#upds{
+	float:right;
+	margin-top:-200px;
+	margin-right:200px;
+	font-size:20px;
+}
+.button1{
+	padding:1px 1px 1px 1px;
+	border-radius:10px;
+	background-color:#ed5752;
+	border-style:dotted;
+	font-size:20px;
+	text-align:center;
+	float:right;
+	cursor:pointer;
+	
+	
+}
+.b1{float:left;
+	margin-top:-550px;
+	margin-left:340px;
+	width:100px;
+	height:35px;
+	
+	}
+.b2{ float:left;
+	margin-top:-550px;
+	margin-left:500px;
+	width:100px;
+	height:35px;
+	
+}
+.b3{ float:left;
+	margin-left:670px;
+	margin-top:-550px;
+	width:100px;
+	height:35px;
+	
+}
+.b1:hover,.b2:hover,.b3:hover{
+	background-color:#a1be95;	
+	}	
+#er{
+	float:left;
+	margin-top:-200px;
+	margin-left:500px;
+	color: red;
+	font-size:30px;
+}
+#lt{
+	cell-spacing:20px;
+	cell-padding:30px;
+	box-shadow: 10px 10px  #ced0ff;
+	}
+#table2
+	{
+	width:450px;
+	height:200px;
+	overflow:scroll;
+	align:center;
+	float:left;	
+	margin-top:-200px;
+	margin-left:-80px;
+	}
+
+
+#lt tr:nth-child(odd){
+	background-color: #0080ff;
+	color:white;
+}
+#lt tr:nth-child(even){
+	background-color: #f0faff;
+	color:black;
+}
+th{
+	background-color:black;
+	color:white;
+}
+#rm{
+	margin-top:150px;
+	margin-left:-230px;
+}

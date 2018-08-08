@@ -1,0 +1,46 @@
+#header {
+	height: 50px;
+	background-color: #F38630;
+	margin-bottom: 10px;
+	border-top-right-radius:40px;
+	border-top-left-radius:40px;
+}
+
+.left {
+	height: 500px;
+	width: 150px;
+	background-color: #A7DBD8;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.right {
+	height: 500px;
+	width: 150px;
+	background-color: #E0E4CC;
+	float: right;
+	margin-bottom: 10px;
+}
+#footer {
+	height: 70px;
+	background-color: #69D2E7;
+    clear:both;
+    text-align:center;
+    border-bottom-right-radius:40px;
+	border-bottom-left-radius:40px;
+}
+#ermsg{
+	float:left;
+	margin-top:-500px;
+	margin-left:400px;
+	color: red;
+	font-size:30px;
+}
+#lg{
+	text-decoration:none;
+	font-family:fantasy;
+}
+#dontcome{
+	float:right;
+	margin-right:-500px;
+}

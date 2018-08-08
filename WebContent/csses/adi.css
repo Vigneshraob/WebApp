@@ -1,0 +1,29 @@
+#addthing{
+	float:left;
+	margin-left:500px;
+	margin-top:-430px;
+	font-size: large;
+	font-family: cursive;
+	text-align:center;
+	border-spacing: 10px;
+	
+}
+#wel{
+	float:left;
+	margin-top:-550px;
+	margin-left:200px;
+	font-family:cursive;
+	font-style: oblique;
+	}
+	#lo{
+	margin-top:-550px;
+	margin-left:950px;
+	font-size:20px;
+}
+#er{
+	float:left;
+	margin-top:-500px;
+	margin-left:200px;
+	color: red;
+	font-size:30px;
+}

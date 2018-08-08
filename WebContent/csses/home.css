@@ -1,0 +1,34 @@
+#wel{
+	float:left;
+	margin-top:-550px;
+	margin-left:200px;
+	font-family:cursive;
+	font-style: oblique;
+	}
+
+#mar{
+	float:right;
+	margin-top:-520px;
+	font-size:25px;
+	color:red;
+	text-shadow: 2px 2px 4px #000fff;
+}
+#hd1{
+	
+	margin-left:190px;
+	margin-top:-480px;
+}
+td{
+	border: 2px dashed blue;
+	box-shadow: 10px 10px #ced0ff;
+	margin-top:-220px;
+}	
+#tb1 tr td img{
+	height:150px;
+	width:150px;
+}
+#lo{
+	margin-top:-550px;
+	margin-left:950px;
+	font-size:20px;
+}
